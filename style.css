@@ -1,5 +1,7 @@
 hi{
     color: rebeccapurple;
     font-size: large;
-    font-display: 50;
+    font: 1em sans-serif;
 }
+
+body{background-color: chartreuse;}
