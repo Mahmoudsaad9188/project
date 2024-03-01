@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: http
+Author: <Mahmoud Saad>
+Author-email: <mahmoudsaad191988@gmail.com>
+License: MIT
+
+# mypackage
+this liberary created as an example of how publish a package
+
+# How to install
+...
